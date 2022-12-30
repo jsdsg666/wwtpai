@@ -97,7 +97,7 @@ def slide_in_timeseries(data, slide_sequence, slide_value=[2, 3, 4, 5, 10, 15, 2
 
 
 def wwtp_data_opt(f_train, f_test, difference_sequence, d_train='./after_train.xlsx', d_test='./after_test.xlsx',save_rate=0.8):
-    """Test envai
+    """Test  wwtpai
 
     Args:
         f_train : trainset filename, string
