@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/wwtpai/__init__.py
+src/wwtpai/utils.py
+src/wwtpai.egg-info/PKG-INFO
+src/wwtpai.egg-info/SOURCES.txt
+src/wwtpai.egg-info/dependency_links.txt
+src/wwtpai.egg-info/requires.txt
+src/wwtpai.egg-info/top_level.txt
